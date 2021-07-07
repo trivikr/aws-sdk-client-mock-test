@@ -1,0 +1,26 @@
+{
+  "name": "aws-sdk-client-mock-test",
+  "version": "1.0.0",
+  "description": "Testing aws-sdk-client-mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/aws-sdk-client-mock-test.git"
+  },
+  "keywords": [
+    "AWS",
+    "SDK",
+    "JavaScript",
+    "Mock",
+    "Test"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/aws-sdk-client-mock-test/issues"
+  },
+  "homepage": "https://github.com/trivikr/aws-sdk-client-mock-test#readme"
+}
