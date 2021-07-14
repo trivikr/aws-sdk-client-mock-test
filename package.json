@@ -29,6 +29,7 @@
     "@aws-sdk/lib-dynamodb": "3.21.0"
   },
   "devDependencies": {
+    "@aws-sdk/util-dynamodb": "^3.21.0",
     "@types/jest": "26.0.24",
     "aws-sdk-client-mock": "0.5.3",
     "jest": "27.0.6",
